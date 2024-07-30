@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using POO_polimorfismo.Models;
+
+// var perroNuevo = new Perro();
+// var gatoNuevo = new Gato();
+// var pezNuevo = new Pez();
+
+// perroNuevo.Hablar();
+// gatoNuevo.Hablar();
+// pezNuevo.Hablar();
+
+// perroNuevo.Desplazarse();
+// gatoNuevo.Desplazarse();
+// pezNuevo.Desplazarse();
+
+// gatoNuevo.Dormir();
+
+var miPrimerGato = new Gato();
